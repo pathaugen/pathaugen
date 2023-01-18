@@ -2,22 +2,23 @@
 
 * 25+ years development experience with 20+ years InfoSec experience.
 * Leadership experience with teams and projects totaling 20+ years.
-* Past development and security projects with Apple, Samsung, Hewlett-Packard, Walt Disney Studios, Gencorp Aerojet, and state agencies including California Arts Council, CalCRN, and more.
+* Past development and security projects with **[Apple, Inc.](https://github.com/apple "GitHub - Apple, Inc.")**, **[Samsung](https://github.com/Samsung "GitHub - Samsung, Ltd.")**, **[Hewlett-Packard](https://github.com/HPInc "GitHub - Hewlett-Packard, Inc.")**, **[Walt Disney Studios](https://github.com/DisneyStudios "GitHub - Walt Disney Studios")**, **Gencorp Aerojet**, and state agencies including **California Arts Council**, **CalCRN**, and more.
+* **LinkedIn**: [https://www.linkedin.com/in/patrickhaugen/](https://www.linkedin.com/in/patrickhaugen/ "LinkedIn - Patrick William Haugen")
 
 ## Tech Companies
 Personal Leadership Stake
-* *Production Media Design*
+* **[Production Media Design](https://github.com/ProductionMediaDesign "GitHub - PMD - Production Media Design")**
     * Branding, marketing, and production support.
     * https://ProductionMediaDesign.com
-* *SoftAngle*
+* **[SoftAngle](https://github.com/SoftAngle "GitHub - SA - SoftAngle")**
     * Software development company
     * https://SoftAngle.com
-* *TrustEncryption*
+* **[TrustEncryption](https://github.com/TrustEncryption "GitHub - TA - TrustEncryption")**
     * InfoSec - Security Company
     * Security tooling development
     * Application, Cloud, & Physical Site Assessments
     * https://TrustEncryption.com
-* *Dreammatter*
+* **[Dreammatter](https://github.com/DreamMatter "GitHub - DM - Dreammatter")**
    * Indy Game Developer
    * https://Dreammatter.com
 
